@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpotifyDoublyPlaylistDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.SpotifyDoublyPlaylistDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "SpotifyPlaylistDemo",
             "request": "launch",
             "mainClass": "com.mycompany.app.SpotifyPlaylistDemo",
