@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpotifyCircularRepeatAllDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.SpotifyCircularRepeatAllDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "SpotifyDoublyPlaylistDemo",
             "request": "launch",
             "mainClass": "com.mycompany.app.SpotifyDoublyPlaylistDemo",
