@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjemploHistorial",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.EjemploHistorial",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PilaStories",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.PilaStories",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "DoublyCircularPlaylistDemo",
             "request": "launch",
             "mainClass": "com.mycompany.app.DoublyCircularPlaylistDemo",
