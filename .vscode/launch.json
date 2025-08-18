@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoublyCircularPlaylistDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.DoublyCircularPlaylistDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedPlaylistDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.DoublyLinkedPlaylistDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PlaylistLinkedDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.PlaylistLinkedDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "SpotifySinglePlaylistDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.SpotifySinglePlaylistDemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "SpotifyCircularRepeatAllDemo",
             "request": "launch",
             "mainClass": "com.mycompany.app.SpotifyCircularRepeatAllDemo",
