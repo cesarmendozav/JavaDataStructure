@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio6_Navegador",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Ejercicio6_Navegador",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1_PilaArray",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Ejercicio1_PilaArray",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "EjemploHistorial",
             "request": "launch",
             "mainClass": "com.mycompany.app.EjemploHistorial",
