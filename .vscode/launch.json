@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ColisionesForzadas",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.ColisionesForzadas",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "EjemploHashMap",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.EjemploHashMap",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueUrgencias",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.PriorityQueueUrgencias",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PacientePriorityQueue",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.PacientePriorityQueue",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Urgencias",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Urgencias",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio6_Navegador",
             "request": "launch",
             "mainClass": "com.mycompany.app.Ejercicio6_Navegador",
