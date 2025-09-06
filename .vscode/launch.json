@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BusquedaProducto",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.BusquedaProducto",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "SupermarketQueueRecursiveSolution",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.SupermarketQueueRecursiveSolution",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "E12_Anagramas",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.E12_Anagramas",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "E2_FibonacciMemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.E2_FibonacciMemo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "E1_Factorial",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.E1_Factorial",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "BuscarArchivoRecursivo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.BuscarArchivoRecursivo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "BuscarArchivo",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.BuscarArchivo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "ColisionesForzadas",
             "request": "launch",
             "mainClass": "com.mycompany.app.ColisionesForzadas",
